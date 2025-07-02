@@ -22,6 +22,14 @@ A full-stack AI-powered chat application with authentication, session management
 
 ---
 
+## n8n Workflow Example (with User Preferences & Memories)
+
+Below is the actual n8n workflow used for AI chat integration, including user preferences and memory management:
+
+![n8n Workflow](assets/image.png)
+
+---
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
